@@ -8,7 +8,7 @@ public class lianxi {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         System.out.println(222);
-System.out.println("鎴戞槸寮犲ぇ甯呭摜");
+        System.out.println("我是张大帅哥");
 		System.out.println(111);
 		System.out.println("8989898");
 	}
