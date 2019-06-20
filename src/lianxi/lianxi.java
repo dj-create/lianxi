@@ -13,10 +13,10 @@ public class lianxi {
 
 		// TODO Auto-generated method stub
         System.out.println(222);
-        System.out.println("嘻嘻");
 		System.out.println(111);
 		System.out.println("musuixin");
 		System.out.println("8989898");
+
 	}
 
 }
